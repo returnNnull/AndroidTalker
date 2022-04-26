@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="android_talker">
+        <item>很高興歡迎您！</item>
+        <item>感謝您使用安卓！</item>
+        <item>很高興歡迎您加入移動應用程序的開發！</item>
+    </string-array>
+</resources>
